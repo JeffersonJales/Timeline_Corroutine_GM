@@ -8,7 +8,6 @@ timeline_asset = -1;
 timeline_name = "";
 timeline_length = 0;
 
-
 timeline_corroutine_setup = function(_timeline, _data, _callback, _speed, _running, _position, _persist, _stop_moment, _auto_destroy){
 	timeline_index = _timeline;
 	timeline_asset = _timeline;
