@@ -17,7 +17,7 @@
     {"name":"timeline_action_resume","order":1,"path":"scripts/timeline_action_resume/timeline_action_resume.yy",},
     {"name":"obj_timeline_test","order":1,"path":"objects/obj_timeline_test/obj_timeline_test.yy",},
     {"name":"tl_test_1","order":2,"path":"timelines/tl_test_1/tl_test_1.yy",},
-    {"name":"__timeline_corroutine_get_inst","order":3,"path":"scripts/__timeline_corroutine_get_inst/__timeline_corroutine_get_inst.yy",},
+    {"name":"timeline_corroutine_get","order":3,"path":"scripts/timeline_corroutine_get/timeline_corroutine_get.yy",},
     {"name":"timeline_corroutine_stop","order":8,"path":"scripts/timeline_corroutine_stop/timeline_corroutine_stop.yy",},
     {"name":"timeline_corroutine_resume","order":10,"path":"scripts/timeline_corroutine_resume/timeline_corroutine_resume.yy",},
     {"name":"timeline_action_pause_until","order":1,"path":"scripts/timeline_action_pause_until/timeline_action_pause_until.yy",},

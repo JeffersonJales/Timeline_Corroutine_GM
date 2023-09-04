@@ -37,7 +37,7 @@
     {"id":{"name":"obj_timeline_test","path":"objects/obj_timeline_test/obj_timeline_test.yy",},},
     {"id":{"name":"obj_timeline_action_pause_until","path":"objects/obj_timeline_action_pause_until/obj_timeline_action_pause_until.yy",},},
     {"id":{"name":"tl_test_1","path":"timelines/tl_test_1/tl_test_1.yy",},},
-    {"id":{"name":"__timeline_corroutine_get_inst","path":"scripts/__timeline_corroutine_get_inst/__timeline_corroutine_get_inst.yy",},},
+    {"id":{"name":"timeline_corroutine_get","path":"scripts/timeline_corroutine_get/timeline_corroutine_get.yy",},},
     {"id":{"name":"timeline_corroutine_stop","path":"scripts/timeline_corroutine_stop/timeline_corroutine_stop.yy",},},
     {"id":{"name":"timeline_action_pause","path":"scripts/timeline_action_pause/timeline_action_pause.yy",},},
     {"id":{"name":"timeline_corroutine_resume","path":"scripts/timeline_corroutine_resume/timeline_corroutine_resume.yy",},},
