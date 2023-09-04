@@ -1,0 +1,2 @@
+show_debug_message(timeline_get_name(timeline_index))
+show_debug_message(timeline_position)

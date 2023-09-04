@@ -1,0 +1,48 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "Timeline_Corroutine",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Test","folderPath":"folders/Test.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timeline Corroutines","folderPath":"folders/Timeline Corroutines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timeline Actions","folderPath":"folders/Timeline Corroutines/Timeline Actions.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"System","folderPath":"folders/Timeline Corroutines/System.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.6.0.92",
+  },
+  "resources": [
+    {"id":{"name":"obj_timeline_corroutine","path":"objects/obj_timeline_corroutine/obj_timeline_corroutine.yy",},},
+    {"id":{"name":"timeline_corroutine_start","path":"scripts/timeline_corroutine_start/timeline_corroutine_start.yy",},},
+    {"id":{"name":"timeline_action_stop","path":"scripts/timeline_action_stop/timeline_action_stop.yy",},},
+    {"id":{"name":"__timeline_corroutine_config","path":"scripts/__timeline_corroutine_config/__timeline_corroutine_config.yy",},},
+    {"id":{"name":"__timeline_corroutine_auto_stop_moment","path":"scripts/__timeline_corroutine_auto_stop_moment/__timeline_corroutine_auto_stop_moment.yy",},},
+    {"id":{"name":"__timeline_corroutine_system","path":"scripts/__timeline_corroutine_system/__timeline_corroutine_system.yy",},},
+    {"id":{"name":"timeline_corroutine_pause","path":"scripts/timeline_corroutine_pause/timeline_corroutine_pause.yy",},},
+    {"id":{"name":"timeline_action_resume","path":"scripts/timeline_action_resume/timeline_action_resume.yy",},},
+    {"id":{"name":"obj_timeline_test","path":"objects/obj_timeline_test/obj_timeline_test.yy",},},
+    {"id":{"name":"tl_test_1","path":"timelines/tl_test_1/tl_test_1.yy",},},
+    {"id":{"name":"__timeline_corroutine_get_inst","path":"scripts/__timeline_corroutine_get_inst/__timeline_corroutine_get_inst.yy",},},
+    {"id":{"name":"timeline_corroutine_stop","path":"scripts/timeline_corroutine_stop/timeline_corroutine_stop.yy",},},
+    {"id":{"name":"timeline_action_pause","path":"scripts/timeline_action_pause/timeline_action_pause.yy",},},
+    {"id":{"name":"timeline_corroutine_resume","path":"scripts/timeline_corroutine_resume/timeline_corroutine_resume.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}
